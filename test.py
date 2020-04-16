@@ -2,8 +2,6 @@
 
 import unittest
 
-from unittest.mock import MagicMock
-
 import nbconvert
 
 import numpy as np
